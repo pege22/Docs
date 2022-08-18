@@ -14,5 +14,5 @@ Antes de iniciar con el videojuego asegurate que kaboom se encuentra instalado, 
 (i) Las deploys son automaticas, es decir que no requiere ir a el portal de administración "uisDaCyl" (Peterodacyl), El cual se encarega de administrar los contenedores de los servidores activos, si deseas acceder contacta con Luis
 
 De otro modo, el servidor de producción se encuentra en este enlace:
-[🙌Production]https://luisweb.cf/pege)
+[🙌Production](https://luisweb.cf/pege)
 [👨‍💻DEV](http://swordbattle.io)
